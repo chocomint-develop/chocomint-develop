@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **chocomint-develop/chocomint-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Chào mừng bạn đến với GitHub của mình!
+
+Mình là **Đặng Thành Tân**, một sinh viên ngành Công nghệ thông tin (CNTT) :33
+
+---
+
+### 👨‍💻 Về mình
+*   **Chuyên ngành:** Công nghệ thông tin (CNTT)
+*   **Ngôn ngữ lập trình:** Nghe nhạc
+*   **Tư duy thẩm mỹ:** Mình hướng tới phong cách "Văn Ming" – sự kết hợp giữa hiệu năng mạnh mẽ bên trong và vẻ ngoài tối giản, chuyên nghiệp.
+
+---
+
+## 🛠 Tech Stack & Công cụ
+
+Dưới đây là những công cụ và ngôn ngữ mình thường xuyên sử dụng:
+
+<div align="center">
+  <!-- Ngôn ngữ -->
+  Về ngôn ngữ: <br> <br>
+  <img src="images/C.png" width="213px" height="120px"  alt="C" />
+  <img src="images/HTML.png" width="213px" height="120px"  alt="HTML5" />
+  <img src="images/CSS Logotype.png" width="178px" height="121px"  alt="CSS3" />
+  <br/>
+  <!-- Frameworks & Tools -->
+   Về Frameworks & Tools: <br> <br>
+  <img src="images/Bootstrap Logotype.png" width="497px" height="128px"  alt="Bootstrap" />
+  <img src="images/VSCode-Thick.png" width="187px" height="121px"  alt="VS Code" />
+  <img src="images/GitHub.png" width="213px" height="120px"  alt="GitHub" />
+</div>
+
+---
+
+### 🌐 Kết nối với mình
+*   **Các profile của mình ở bên trái
+*   **Sở thích đặc biệt:** Nếu bạn muốn bàn luận, âm thanh Hi-Res, Dolby, hoặc các mẹo, đừng ngần ngại kết nối nhé!
