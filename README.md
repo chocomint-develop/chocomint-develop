@@ -22,7 +22,7 @@ Mình là **Đặng Thành Tân**, một sinh viên ngành Công nghệ thông t
 
 ### 👨‍💻 Về mình
 *   **Chuyên ngành:** Công nghệ thông tin (CNTT)
-*   **Ngôn ngữ lập trình:** Nghe nhạc
+*   **Sở thích:** Nghe nhạc
 *   **Tư duy thẩm mỹ:** Mình hướng tới phong cách "Văn Ming" – sự kết hợp giữa hiệu năng mạnh mẽ bên trong và vẻ ngoài tối giản, chuyên nghiệp.
 
 ---
