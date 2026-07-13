@@ -36,7 +36,8 @@ Dưới đây là những công cụ và ngôn ngữ mình thường xuyên sử
   Về ngôn ngữ: <br> <br>
   <img src="images/C.png" width="213px" height="120px"  alt="C" />
   <img src="images/HTML.png" width="213px" height="120px"  alt="HTML5" />
-  <img src="images/CSS Logotype.png" width="178px" height="121px"  alt="CSS3" />
+  <img src="images/CSS Logotype.png" width="178px" height="121px"  alt="CSS3" /> <br>
+  <img src="images/Javascript Logotype.png" width="497px" height="128px" alt="JavaScript" />
   <br/>
   <!-- Frameworks & Tools -->
    Về Frameworks & Tools: <br> <br>
