@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # 👋 Chào mừng bạn đến với GitHub của mình!
 
 Mình là **Đặng Thành Tân**, một sinh viên ngành Công nghệ thông tin (CNTT) :33
+Mình là một cư dân Trà Vinh, sống và hít thở không khí của máy tính, điện thoại thông minh, thiết bị công nghệ, nhạc King Gnu và anime! 
 
 ---
 
